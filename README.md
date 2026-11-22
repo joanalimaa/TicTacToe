@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 ## 💬 Descrição / Description
-🇧🇷 - Esse projeto consiste  um jogo da velha com animações personalizadas de virar cartas, criado com o objetivo de aprender os conceitos iniciais de SwiftUI.
+🇧🇷 - Esse projeto consiste em um jogo da velha com animações personalizadas de virar cartas, criado com o objetivo de aprender os conceitos iniciais de SwiftUI.
 
 🇦🇺 - This project consists of a tic-tac-toe game with custom card flip animations, created with the goal of learning the initial concepts of SwiftUI.
 
